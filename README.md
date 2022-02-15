@@ -1,9 +1,9 @@
 ### Olá, Eu sou Nathan Alves 👋
-- 🌱 Estou aprendendo... HTML, CSS, JavaScript, React, Angular, jQuery
+- 🌱 HTML, CSS, JavaScript, React, Angular, jQuer
 - 💬 Pergunte-me sobre ...Tecnologia
 - 📫 Como chegar até mim: ... 47992569591 ou E-mail  nathanalvesmelo98@gmail.com
 - 😄 Pronomes: ... Ele/Dele
-- ⚡ Curiosidade:
+
 
 
 
